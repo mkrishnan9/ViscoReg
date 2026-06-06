@@ -1,0 +1,45 @@
+# Experiment logs and results
+log/
+log_*/
+*/log/
+*/log_*/
+everything_in_paper/
+
+# Model checkpoints
+trained_models/
+*.pth
+
+# Data directories
+data/NSP_dataset/
+data/ShapeNetNSP/
+data/deep_geometric_prior_data/
+data/ScutSurf_Data/
+data/scene_reconstruction/
+data/srb.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results and mesh outputs
+result_meshes/
+*.ply
+*.obj
+*.stl
+
+# Misc
+*.png
+!fig/*.png
+*.jpg
+*.mp4
+*.csv
+.DS_Store
