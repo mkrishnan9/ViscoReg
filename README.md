@@ -2,7 +2,7 @@
 ---
 Created by [Meenakshi Krishnan](https://mkrishnan9.github.io/) and [Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid) from the [Perceptual Interfaces and Reality Lab (PIRL)](https://pirl.umd.edu/), University of Maryland, College Park.
 
-**[[TMLR]](https://openreview.net/forum?id=DWnMkBU4sF)** | **[[Arxiv]](http://arxiv.org/abs/2507.00412)**
+**[[Arxiv]](http://arxiv.org/abs/2507.00412)**
 
 ## Introduction
 
@@ -113,12 +113,11 @@ bash scripts/run_train_test_1d.sh
 If you find our work useful in your research, please cite:
 
 ```bibtex
-@article{krishnan2026viscoreg,
+@article{krishnan2025viscoreg,
   title={ViscoReg: Neural Signed Distance Functions via Viscosity Solutions},
   author={Krishnan, Meenakshi and Duraiswami, Ramani},
-  journal={Transactions on Machine Learning Research},
-  year={2026},
-  url={https://openreview.net/forum?id=DWnMkBU4sF}
+  journal={arXiv preprint arXiv:2507.00412},
+  year={2025}
 }
 ```
 
