@@ -12,6 +12,8 @@ We evaluate on four benchmarks: ShapeNet (NSP split), the Surface Reconstruction
 
 This codebase builds on [DiGS](https://github.com/Chumbyte/DiGS) and [StEik](https://github.com/steik-neurips/steik).
 
+![ViscoReg](fig/viscoreg.png)
+
 ## Installation
 
 Our codebase uses [PyTorch](https://pytorch.org/).
